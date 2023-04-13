@@ -3,7 +3,7 @@ This is a simple Sudoku solver written in Python. The program uses a backtrackin
 
 To use the solver, define a 9x9 grid of integers representing the Sudoku puzzle and pass it to the solve function. The solved puzzle will be printed to the console.
 
-Example usage
+Example usage:
 
 ```python
 SUDOKU = [
